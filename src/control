@@ -1,0 +1,9 @@
+Package: com.tubby.shabisky
+Name: SHABISKY
+Version: 1.0
+Architecture: iphoneos-arm
+Description: SHABISKY is the greatest
+Maintainer: tubby
+Author: tubby
+Section: Applications
+Depends: firmware (>= 16.0)
